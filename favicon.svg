@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="105 73 216 216" width="864" height="864">
+  <defs>
+    <linearGradient id="gg" gradientUnits="userSpaceOnUse" x1="120" y1="250" x2="310" y2="215">
+      <stop offset="0" stop-color="#46A04C"/><stop offset="0.45" stop-color="#7DB843"/><stop offset="1" stop-color="#AACA48"/>
+    </linearGradient>
+    <clipPath id="cg"><circle cx="213" cy="181" r="96"/></clipPath>
+  </defs>
+  <g>
+    <circle cx="213" cy="181" r="96" fill="#1868BD"/>
+    <g clip-path="url(#cg)" fill="none" stroke="#FFFFFF" stroke-width="5.5">
+      <line x1="213" y1="70" x2="213" y2="290"/>
+      <ellipse cx="213" cy="181" rx="54" ry="100"/>
+      <line x1="100" y1="180" x2="330" y2="180"/>
+      <path d="M 105 134 Q 213 122 321 134"/>
+      <path d="M 105 228 Q 213 238 321 228"/>
+    </g>
+    <path d="M 248 117 L 190 187 L 221 183 L 212 232 L 242 171 L 227 173 Z" fill="#FFFFFF"/>
+    <!-- hoja + trazo inferior: contorno blanco común y relleno sin línea entre ellos -->
+    <g stroke="#FFFFFF" stroke-width="10" stroke-linejoin="round" fill="#FFFFFF">
+      <path d="M 115 165 A 100 100 0 0 0 213 281 C 214 268 213 254 209 242 C 201 226 186 214 166 205 C 145 196 126 184 115 165 Z"/><path d="M 160 266 A 100 100 0 0 0 310 218 C 299 233 287 242 269 249 C 247 257 220 263 160 263 Z"/>
+    </g>
+    <g fill="url(#gg)"><path d="M 115 165 A 100 100 0 0 0 213 281 C 214 268 213 254 209 242 C 201 226 186 214 166 205 C 145 196 126 184 115 165 Z"/><path d="M 160 266 A 100 100 0 0 0 310 218 C 299 233 287 242 269 249 C 247 257 220 263 160 263 Z"/></g>
+    <!-- rayo blanco dentro de la hoja -->
+    <path d="M 140 220 L 172 244 L 178 235 L 213 268 L 181 253 L 175 261 Z" fill="#FFFFFF"/>
+  </g>
+</svg>
