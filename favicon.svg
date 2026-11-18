@@ -1,26 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="105 73 216 216" width="864" height="864">
-  <defs>
-    <linearGradient id="gg" gradientUnits="userSpaceOnUse" x1="120" y1="250" x2="310" y2="215">
-      <stop offset="0" stop-color="#46A04C"/><stop offset="0.45" stop-color="#7DB843"/><stop offset="1" stop-color="#AACA48"/>
-    </linearGradient>
-    <clipPath id="cg"><circle cx="213" cy="181" r="96"/></clipPath>
-  </defs>
-  <g>
-    <circle cx="213" cy="181" r="96" fill="#1868BD"/>
-    <g clip-path="url(#cg)" fill="none" stroke="#FFFFFF" stroke-width="5.5">
-      <line x1="213" y1="70" x2="213" y2="290"/>
-      <ellipse cx="213" cy="181" rx="54" ry="100"/>
-      <line x1="100" y1="180" x2="330" y2="180"/>
-      <path d="M 105 134 Q 213 122 321 134"/>
-      <path d="M 105 228 Q 213 238 321 228"/>
-    </g>
-    <path d="M 248 117 L 190 187 L 221 183 L 212 232 L 242 171 L 227 173 Z" fill="#FFFFFF"/>
-    <!-- hoja + trazo inferior: contorno blanco común y relleno sin línea entre ellos -->
-    <g stroke="#FFFFFF" stroke-width="10" stroke-linejoin="round" fill="#FFFFFF">
-      <path d="M 115 165 A 100 100 0 0 0 213 281 C 214 268 213 254 209 242 C 201 226 186 214 166 205 C 145 196 126 184 115 165 Z"/><path d="M 160 266 A 100 100 0 0 0 310 218 C 299 233 287 242 269 249 C 247 257 220 263 160 263 Z"/>
-    </g>
-    <g fill="url(#gg)"><path d="M 115 165 A 100 100 0 0 0 213 281 C 214 268 213 254 209 242 C 201 226 186 214 166 205 C 145 196 126 184 115 165 Z"/><path d="M 160 266 A 100 100 0 0 0 310 218 C 299 233 287 242 269 249 C 247 257 220 263 160 263 Z"/></g>
-    <!-- rayo blanco dentro de la hoja -->
-    <path d="M 140 220 L 172 244 L 178 235 L 213 268 L 181 253 L 175 261 Z" fill="#FFFFFF"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="242 77 770 770"><defs><clipPath id="gca"><circle cx="627" cy="462" r="365"/></clipPath></defs><circle cx="627" cy="462" r="365" fill="#063B8F"/><g clip-path="url(#gca)" stroke="#FFFFFF" stroke-width="19" fill="none"><path d="M200,272 Q627,212 1054,272"/><line x1="200" y1="452" x2="1054" y2="452"/><path d="M200,612 Q627,672 1054,612"/><line x1="624" y1="60" x2="624" y2="900"/><ellipse cx="627" cy="462" rx="190" ry="365"/></g><polygon points="692,166 514,470 636,470 599,674 779,374 654,374" fill="none" stroke="#063B8F" stroke-width="38" stroke-linejoin="round"/><polygon points="692,166 514,470 636,470 599,674 779,374 654,374" fill="#FFFFFF"/><polygon points="606,746 634,746 634,795 596,795" fill="#FFFFFF" clip-path="url(#gca)"/><path d="M264,420 A365,365 0 0 0 972,581 C910,665 770,770 640,781 C622,781 610,780 599,777 C572,770 540,752 520,728 L515,760 C458,740 380,676 348,598 C392,628 438,660 472,682 L479,640 C530,690 586,733 609,746 C608,714 598,686 575,650 C530,606 440,560 380,532 C330,508 290,470 264,420 Z
+" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linejoin="round" clip-path="url(#gca)"/><path d="M264,420 A365,365 0 0 0 972,581 C910,665 770,770 640,781 C622,781 610,780 599,777 L609,746 C608,714 598,672 575,650 C530,606 440,560 380,532 C330,508 290,470 264,420 Z" fill="#FFFFFF"/><path d="M264,420 A365,365 0 0 0 972,581 C910,665 770,770 640,781 C622,781 610,780 599,777 C572,770 540,752 520,728 L515,760 C458,740 380,676 348,598 C392,628 438,660 472,682 L479,640 C530,690 586,733 609,746 C608,714 598,686 575,650 C530,606 440,560 380,532 C330,508 290,470 264,420 Z
+" fill="#5EB046"/></svg>
